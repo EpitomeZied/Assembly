@@ -1,0 +1,28 @@
+# Local student records — keep out of the public repository.
+/private/
+
+
+# Assembly build output (keep .asm source files).
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.map
+
+# Typst sources and temporary output; published PDFs are kept.
+*.typ
+*.pdf.tmp
+.typst-cache/
+**/prev/
+
+# Local editor and operating-system files.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~
+
+# Keep teacher answer-key PDFs out of the public repository.
+*[Kk]ey*.pdf
+*[Aa]nswer*.pdf
