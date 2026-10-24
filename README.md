@@ -18,7 +18,7 @@ My study notes, teaching plans, practice questions, and practical examples for a
 | [notes/](notes/) | Course overview, section plans, question bank, and teaching playbook |
 | [lectures/](lectures/) | Lectures 1–3 and practice sheets |
 | [quizzes/](quizzes/) | Quiz 1 models A–G, questions only |
-| [examples/](examples/) | MASM / Irvine32 addition and subtraction programs |
+| [examples/](examples/) | MASM / Irvine32 programs for every lecture example, sorted by lecture |
 
 ## Reading and building
 
